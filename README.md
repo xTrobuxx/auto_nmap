@@ -34,3 +34,4 @@ Este script cuenta con 5 opciones:
 
 [5] Exit
 
+· Cualquier problema que haya me lo podeis notificar mediante discord **trobuxx**
