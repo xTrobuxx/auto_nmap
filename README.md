@@ -11,14 +11,14 @@ Auto_Nmap es un script programado en Bash para automatizar **NMAP**.
 
 Simplemente le damos permisos de ejecución al script:
 ```bash
-chmod +x auto_Nmap.sh
+chmod +x auto_nmap.sh
 ```
 
 # Ejecución
 
 Para ejecutarlo deberemos poner lo siguiente:
 ```bash
-./auto_Nmap.sh
+./auto_nmap.sh
 ```
 Una vez ejecutado el script le se ingresa la IP de la maquina que desee escanear.
 
