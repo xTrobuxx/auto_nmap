@@ -36,4 +36,6 @@ Este script cuenta con 5 opciones:
 
 [5] Exit
 
+Agradecimientos a https://github.com/14wual por echarme una mano.
+
 · Cualquier problema que haya me lo podeis notificar mediante discord **trobuxx**
