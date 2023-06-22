@@ -25,7 +25,11 @@ Una vez ejecutado el script le se ingresa la IP de la maquina que desee escanear
 Este script cuenta con 5 opciones:
 
 [1] Escaneo normal (nmap -p- --open)
+
 [2] Escaneo rapido pero ruidoso (nmap -p- --open --min-rate 5000 -T5 -n -sS -Pn)
+
 [3] Escaneo silencioso (nmap -p- -T2 -sS -Pn -f)
+
 [4] Escaneo de servicios y versiones (nmap -p- -sCV)
+
 [5] Exit
