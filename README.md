@@ -1,4 +1,4 @@
-# Auto_Nmap ( By Trobuxx )
+# auto_nmap ( By Trobuxx )
 
 ![Foto](image.png)
 
