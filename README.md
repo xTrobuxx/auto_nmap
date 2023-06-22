@@ -1,6 +1,6 @@
 # Auto_Nmap ( By Trobuxx )
 
-![Foto](https://ibb.co/9tD6fVJ/imagen.png)
+![Foto](https://ibb.co/9tD6fVJ)
 
 ---
 Auto_Nmap es un script programado en Bash para automatizar **NMAP**.
