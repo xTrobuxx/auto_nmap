@@ -33,3 +33,5 @@ Este script cuenta con 5 opciones:
 [4] Escaneo de servicios y versiones (nmap -p- -sCV)
 
 [5] Exit
+
+# Gracias por vuestro apoyo, espero que os guste
